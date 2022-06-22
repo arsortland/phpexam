@@ -1,14 +1,7 @@
-# Hei Svend Andreas!
+# This was made during my exam after a semester of PHP.
 
-# Anbefalt bruk av besvarelsen:
+1. Start by running the index file and follow along.
+2. The filestructure is made by using LAMP/MAMP/WAMP or any other way to create a database with PHP.
 
-1. Opprett databasen
-2. Opprett tabell(er) på personer du ønsker å beskrive.
-3. Legg til beskrivelser
-4. Vis beskrivelsene som ordsky.
-
-# Øvrig
-- Se kommentarer i filene.
-
-
-Mvh André R. Sortland
+- You first make a database, then a table, then you fill the table with data.
+- Based on how many times the same word is used decides how big the words are when you show the data later.
